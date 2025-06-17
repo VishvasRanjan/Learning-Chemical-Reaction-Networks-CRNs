@@ -52,7 +52,8 @@ This thesis explores fundamental questions about biological learning mechanisms:
 1. Demonstrated mathematical "learnability" of small chemical systems
 2. Established MCTI's validity for stationary distributions
 3. Developed parameter learning framework for reaction rate constants
-4. Identified scalability limitations for complex systems
+4. Executed Clamping method as Sampling in CRN
+5. Identified scalability limitations for complex systems
 
 ## Challenges and Future Directions
 - **Challenge:** Complex distribution forms resist closed-form solutions
