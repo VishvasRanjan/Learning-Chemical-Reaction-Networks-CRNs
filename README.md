@@ -65,3 +65,6 @@ Opens new avenues for modeling biological learning through CRNs, bridging micros
 - Cellular process modeling
 - Nature-inspired AI systems
 - Adaptive chemical computing
+
+---
+*Thanks for checking out our work!*
